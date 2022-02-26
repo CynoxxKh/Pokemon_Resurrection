@@ -110,7 +110,7 @@
 #define METATILE_BrendansMaysHouse_MayPC_Off         0x288
 #define METATILE_BrendansMaysHouse_MayPC_On          0x27E
 #define METATILE_BrendansMaysHouse_MovingBox_Closed  0x23A
-#define METATILE_BrendansMaysHouse_MovingBox_Open    0x270
+#define METATILE_BrendansMaysHouse_MovingBox_Open    0x272
 
 // gTileset_Building
 #define METATILE_Building_PC_Off  0x004
@@ -206,13 +206,13 @@
 #define METATILE_Fortree_WoodBridge1_Top                   0x297
 
 // gTileset_General
-#define METATILE_General_BlueCaveIndent        0x1B0
-#define METATILE_General_BlueCaveOpen          0x1B1
+#define METATILE_General_BlueCaveIndent        0x1AA
+#define METATILE_General_BlueCaveOpen          0x1A2
 #define METATILE_General_CalmWater             0x170
 #define METATILE_General_CaveEntrance_Bottom   0x0A7
 #define METATILE_General_CaveEntrance_Top      0x09F
 #define METATILE_General_Door                  0x021
-#define METATILE_General_Door_Contest          0x1DB
+#define METATILE_General_Door_Contest          0x1A3
 #define METATILE_General_Door_Gym              0x1DD
 #define METATILE_General_Door_Littleroot       0x144
 #define METATILE_General_Door_PokeCenter       0x061
